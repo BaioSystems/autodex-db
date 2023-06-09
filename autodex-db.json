@@ -30,6 +30,37 @@
         "city": "9,5 km/l",
         "highway": "12,5 km/l"
       }
+    },
+    {
+      "brand": "Chevrolet",
+      "model": "Opala",
+      "year": 1970,
+      "engine": {
+        "type": "6 cilindros em linha",
+        "displacement": "4.1 litros",
+        "power": "140 cavalos",
+        "torque": "30 kgfm"
+      },
+      "transmission": {
+        "type": "Manual",
+        "number_of_gears": 4
+      },
+      "dimensions": {
+        "length": "4,72 metros",
+        "width": "1,75 metros",
+        "height": "1,39 metros",
+        "weight": "1.245 kg"
+      },
+      "performance": {
+        "top_speed": "180 km/h",
+        "acceleration": {
+          "0-100 km/h": "11,5 segundos"
+        }
+      },
+      "fuel_consumption": {
+        "city": "8,5 km/l",
+        "highway": "11,5 km/l"
+      }
     }
   ]
 }
