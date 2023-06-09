@@ -92,7 +92,68 @@
         "city": "9,0 km/l",
         "highway": "11,5 km/l"
       }
+    },
+    {
+      "brand": "Ford",
+      "model": "Corcel",
+      "year": "1968-1986",
+      "engine": {
+        "type": "4 cilindros em linha",
+        "displacement": "1.3 - 1.6 litros",
+        "power": "58 - 86 cavalos",
+        "torque": "11,4 - 14,4 kgfm"
+      },
+      "transmission": {
+        "type": "Manual",
+        "number_of_gears": 4
+      },
+      "dimensions": {
+        "length": "4,26 - 4,29 metros",
+        "width": "1,62 metros",
+        "height": "1,39 metros",
+        "weight": "900 - 950 kg"
+      },
+      "performance": {
+        "top_speed": "140 - 160 km/h",
+        "acceleration": {
+          "0-100 km/h": "15 - 12 segundos"
+        }
+      },
+      "fuel_consumption": {
+        "city": "8,0 - 10,0 km/l",
+        "highway": "11,0 - 13,5 km/l"
+      }
+    },
+    {
+      "brand": "Fiat",
+      "model": "Uno",
+      "year": "1984-2000",
+      "engine": {
+        "type": "4 cilindros em linha",
+        "displacement": "1.0 - 1.6 litros",
+        "power": "45 - 106 cavalos",
+        "torque": "8,0 - 13,8 kgfm"
+      },
+      "transmission": {
+        "type": "Manual",
+        "number_of_gears": 5
+      },
+      "dimensions": {
+        "length": "3,63 - 3,66 metros",
+        "width": "1,56 - 1,63 metros",
+        "height": "1,42 metros",
+        "weight": "700 - 850 kg"
+      },
+      "performance": {
+        "top_speed": "140 - 180 km/h",
+        "acceleration": {
+          "0-100 km/h": "16 -12 segundos"
+        },
+        "fuel_consumption": {
+          "city": "10,0 - 15,0 km/l",
+          "highway": "13,0 - 18,0 km/l"
+        }
+      }
     }
-    
   ]
 }
