@@ -1,0 +1,33 @@
+[{
+    "brand": "Volkswagen",
+    "model": "Fusca",
+    "year": 1978,
+    "engine": {
+      "type": "4 cilindros boxer",
+      "displacement": "1.6 litros",
+      "power": "46 cavalos",
+      "torque": "11,4 kgfm"
+    },
+    "transmission": {
+      "type": "Manual",
+      "number_of_gears": 4
+    },
+    "dimensions": {
+      "length": "3,97 metros",
+      "width": "1,52 metros",
+      "height": "1,5 metros",
+      "weight": "820 kg"
+    },
+    "performance": {
+      "top_speed": "130 km/h",
+      "acceleration": {
+        "0-100 km/h": "26 segundos"
+      }
+    },
+    "fuel_consumption": {
+      "city": "9,5 km/l",
+      "highway": "12,5 km/l"
+    }
+  },
+  
+  ]
