@@ -67,7 +67,6 @@
     {
       "brand": "Volkswagen",
       "model": "Fusca",
-      "image":"",
       "year": 1978,
       "engine": {
         "type": "4 cilindros boxer",
@@ -94,6 +93,16 @@
       "fuel_consumption": {
         "city": "9,0 km/l",
         "highway": "11,5 km/l"
+      },
+      "tires": {
+        "type": "Radial",
+        "size": "165/80 R15"
+      },
+      "brake_oil": {
+        "type": "DOT 3"
+      },
+      "engine_oil": {
+        "type": "SAE 20W-50"
       }
     },
     {
