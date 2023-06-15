@@ -204,6 +204,8 @@
       "brand": "Volkswagen",
       "model": "Fusca",
       "year": 2021,
+      "image": "https://raw.githubusercontent.com/BaioSystems/autodex-db/main/fusca21.png",
+
       "engine": {
         "type": "4-cylinder boxer",
         "displacement": "1.4 liters",
