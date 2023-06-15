@@ -3,7 +3,7 @@
     {
       "brand": "Volkswagen",
       "model": "Fusca",
-      "image": "./fusca.png",
+      "image": "https://raw.githubusercontent.com/BaioSystems/autodex-db/main/fusca.png",
       "year": 1978,
       "engine": {
         "type": "4 cilindros boxer",
