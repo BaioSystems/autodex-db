@@ -35,7 +35,7 @@
     {
       "brand": "Chevrolet",
       "model": "Opala",
-      "image":"",
+      "image": "https://raw.githubusercontent.com/BaioSystems/autodex-db/main/opala70.png",
       "year": 1970,
       "engine": {
         "type": "6 cilindros em linha",
@@ -67,6 +67,7 @@
     {
       "brand": "Volkswagen",
       "model": "Fusca",
+      "image": "https://raw.githubusercontent.com/BaioSystems/autodex-db/main/fusca.png",
       "year": 1978,
       "engine": {
         "type": "4 cilindros boxer",
