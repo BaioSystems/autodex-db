@@ -291,7 +291,51 @@
       "engine_oil": {
         "type": "SAE 30"
       }
+    },
+    {
+      "brand": "Ford",
+      "model": "Galaxie",
+      "year": 1978,
+      "image": "https://raw.githubusercontent.com/BaioSystems/autodex-db/main/fordgalaxie.png",
+
+      "engine": {
+        "type": "V8",
+        "displacement": "4.9 litros",
+        "power": "180 cavalos",
+        "torque": "35 kgfm"
+      },
+      "transmission": {
+        "type": "Automática",
+        "number_of_gears": 3
+      },
+      "dimensions": {
+        "length": "5,61 metros",
+        "width": "2,03 metros",
+        "height": "1,39 metros",
+        "weight": "1.800 kg"
+      },
+      "performance": {
+        "top_speed": "190 km/h",
+        "acceleration": {
+          "0-100 km/h": "12 segundos"
+        }
+      },
+      "fuel_consumption": {
+        "city": "6,5 km/l",
+        "highway": "9,0 km/l"
+      },
+      "tires": {
+        "type": "Diagonal",
+        "size": "7.35-14"
+      },
+      "brake_oil": {
+        "type": "DOT 4"
+      },
+      "engine_oil": {
+        "type": "SAE 10W-40"
+      }
     }
+    
     
     
     
