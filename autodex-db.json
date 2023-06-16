@@ -81,6 +81,8 @@
       "brand": "Ford",
       "model": "Model T",
       "year": 1908,
+      "image": "https://raw.githubusercontent.com/BaioSystems/autodex-db/main/FordModelT.png",
+
       "engine": {
         "type": "4 cilindros em linha",
         "displacement": "2.9 litros",
@@ -122,6 +124,8 @@
       "brand": "Chevrolet",
       "model": "Universal",
       "year": 1934,
+      "image": "https://raw.githubusercontent.com/BaioSystems/autodex-db/main/ChevroletUniversal.png",
+
       "engine": {
         "type": "6 cilindros em linha",
         "displacement": "3.2 litros",
