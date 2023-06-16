@@ -167,6 +167,8 @@
       "brand": "Willys",
       "model": "Overland",
       "year": 1950,
+      "image": "https://raw.githubusercontent.com/BaioSystems/autodex-db/main/Willys_Overland_1958.png",
+
       "engine": {
         "type": "6 cilindros em linha",
         "displacement": "2.2 litros",
