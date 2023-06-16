@@ -253,6 +253,8 @@
       "brand": "Chevrolet",
       "model": "Bel Air",
       "year": 1950,
+      "image": "https://raw.githubusercontent.com/BaioSystems/autodex-db/main/Chevrolet_belair.png",
+
       "engine": {
         "type": "6 cilindros em linha",
         "displacement": "3.9 litros",
