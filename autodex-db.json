@@ -377,6 +377,49 @@
         "type": "SAE 20W-50"
       }
     }
+    ,
+    {
+      "brand": "Yamaha",
+      "model": "Virago",
+      "image": "https://raw.githubusercontent.com/BaioSystems/autodex-db/main/535.png",
+      "year": "1994-2002",
+      "engine": {
+        "type": "V2",
+        "displacement": "535 cc",
+        "power": "46 hp",
+        "torque": "47 Nm"
+      },
+      "transmission": {
+        "type": "Manual",
+        "number_of_gears": 5
+      },
+      "dimensions": {
+        "length": "2,340 mm",
+        "width": "900 mm",
+        "height": "1,090 mm",
+        "weight": "180 kg"
+      },
+      "performance": {
+        "top_speed": "160 km/h",
+        "acceleration": {
+          "0-100 km/h": "6.5 seconds"
+        }
+      },
+      "fuel_consumption": {
+        "city": "20 km/l",
+        "highway": "25 km/l"
+      },
+      "tires": {
+        "front": "110/90-18",
+        "rear": "140/90-15"
+      },
+      "brake_oil": {
+        "type": "DOT 4"
+      },
+      "engine_oil": {
+        "type": "10W-40"
+      }
+    }
     
     
     
